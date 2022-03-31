@@ -1,0 +1,47 @@
+body {
+  background-color: black;
+  padding: 2rem 0 0 2rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+}
+
+#quote-box {
+  /*margin: auto;
+  padding: auto;
+  text-align: center;
+  background-color: rgb(135, 220, 253);
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;*/
+  height: 100vh; 
+}
+#container-box{
+  margin-top: 25%;
+  margin-left: auto;
+  margin-right: auto;
+  padding: auto;
+  text-align: center;
+  background-color: rgb(135, 220, 253);
+  border-radius: 10px;
+  justify-content: center;
+  align-items: center;
+  width: 600px;
+
+}
+#text {
+  font-size: 3rem;
+}
+
+#author {
+  font-size: 2rem;
+  text-align: right;
+  margin-right: 50px;
+}
+
+#buttons {
+  position: sticky;
+  padding: 1vw;
+  margin: 1vw;
+}
